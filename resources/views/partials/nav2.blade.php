@@ -10,7 +10,8 @@
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/BackPortfolio">Back Portfolio</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/BackServices">Back Services</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/BackTitres">Back Titres</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/backNav">Back Nav</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/BackNav">Back Nav</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/Createnav"> Create Nav</a></li>
             </ul>
         </div>
     </div>

@@ -8,6 +8,7 @@
                 @foreach ($DbLiNav as $li)
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#{{$li->ContenuLi}}">{{$li->ContenuLi}}</a></li>
                 @endforeach
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/Backoffice">Backoffice</a></li>
             </ul>
         </div>
     </div>
