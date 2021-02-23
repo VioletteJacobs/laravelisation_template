@@ -6,7 +6,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto my-2 my-lg-0">
                 @foreach ($DbLiNav as $li)
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">{{$li->ContenuLi}}</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#{{$li->ContenuLi}}">{{$li->ContenuLi}}</a></li>
                 @endforeach
             </ul>
         </div>
